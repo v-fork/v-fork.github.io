@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://v-fork.github.io/</link>
+    <link>https://v-fork.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Aug 2023 22:29:17 +0800</lastBuildDate><atom:link href="http://v-fork.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 22:29:17 +0800</lastBuildDate><atom:link href="https://v-fork.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello_hugo</title>
-      <link>http://v-fork.github.io/posts/hello_hugo/</link>
+      <link>https://v-fork.github.io/posts/hello_hugo/</link>
       <pubDate>Fri, 11 Aug 2023 22:29:17 +0800</pubDate>
       
-      <guid>http://v-fork.github.io/posts/hello_hugo/</guid>
+      <guid>https://v-fork.github.io/posts/hello_hugo/</guid>
       <description>hello, hugo</description>
     </item>
     
